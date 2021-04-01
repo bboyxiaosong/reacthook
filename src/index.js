@@ -8,8 +8,8 @@ import ReactDOM from 'react-dom';
 // import Example from './test5'
 // import Example from './test6'
 // import Example from './test7/test7'
-import Example from './test8'
-
+// import Example from './test8'
+import Example from './test9'
 ReactDOM.render(
     <Example/>,
     document.getElementById('root'),
