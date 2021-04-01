@@ -1,4 +1,10 @@
 
+/*
+
+useRef 获取真实的Dom元素
+
+*/ 
+
 import React, { useRef, useState } from 'react'
 
 function Example() {
