@@ -6,6 +6,7 @@ import React, { useMemo, useState } from 'react'
  * 
 shouldComponentUpdate 组件更新之前
 
+useMemo = shouldComponentUpdate
 对比状态  需要 useEffect ; 父组件 状态个更新了 子组件()
 
  */

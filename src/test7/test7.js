@@ -15,8 +15,8 @@ import ShowArea from './showArea'
 function Example() {
 
     return (
-        <div>
-            <Color>
+        <div> 
+            <Color>  
                 <ShowArea />
                 <Buttons />
             </Color>

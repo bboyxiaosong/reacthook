@@ -2,7 +2,7 @@
 import React ,{useState,useEffect,createContext,useContext} from 'react'
 
 /**
- createContext 创建上下文； 就是树的上下文
+ createContext 创建上下文； 就是树的上下文 用来解决父子组件之间传值问题
  
  他创建的就是 共享数据组件 .Provider 就是提供器
 
