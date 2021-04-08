@@ -1,6 +1,6 @@
 /**
 useEffect hook 函数解释
-useEffect = componentDidMount componentDidUpdate 这个两个生命周期函数
+useEffect = componentDidMount componentDidUpdate 这个两个生命周期函数f
 
 */ 
 
